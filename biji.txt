@@ -1,0 +1,3 @@
+debug
+1不在此处暂停
+2油猴 hooksetinterval
